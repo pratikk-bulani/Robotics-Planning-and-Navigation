@@ -2,4 +2,4 @@ Robot navigates a two dimensional space, avoiding known locations with obstacles
 
 ## Outputs
 
-Please refer to the following playlist on YouTube: 
+Please refer to the following playlist on YouTube: https://www.youtube.com/playlist?list=PL7i-RSp-AiPOIkhdxUGqwsCcFpGcT66Og
